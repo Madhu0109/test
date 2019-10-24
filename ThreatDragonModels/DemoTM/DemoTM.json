@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "DemoTM",
+    "owner": "Madhu",
+    "description": "Threat Modelling Devsecops"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "ThreatModel",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Madhu"
+  }
+}
