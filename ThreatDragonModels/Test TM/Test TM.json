@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test TM",
+    "owner": "CTS",
+    "description": "Threat Modelling"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Madhu"
+  }
+}
